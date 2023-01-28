@@ -19,6 +19,8 @@ https://github.com/sagar-iitg/Jenkins-Project-Django.git
 # Build Steps
 
 ## Execute shell
-echo "Building"\\
+```
+echo "Building"
 docker-compose down
 docker-compose up -d --no-deps --build web
+```
