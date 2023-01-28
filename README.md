@@ -20,7 +20,7 @@ https://github.com/sagar-iitg/Jenkins-Project-Django.git
 
 ## Build Triggers
 
-### GitHub hook trigger for GITScm pollin
+##### GitHub hook trigger for GITScm polling
 
 ## Build Steps
 
