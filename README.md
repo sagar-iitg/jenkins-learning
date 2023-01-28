@@ -5,7 +5,8 @@
 
 
 ## Github project
-### Project url
+
+Project url
 https://github.com/sagar-iitg/Jenkins-Project-Django.git/
 
 ## Source Code Management
@@ -18,7 +19,7 @@ https://github.com/sagar-iitg/Jenkins-Project-Django.git
 
 ## Build Steps
 
-### Execute shell
+Execute shell
 ```
 echo "Building"
 docker-compose down
