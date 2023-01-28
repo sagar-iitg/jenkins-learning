@@ -1,14 +1,14 @@
-# jenkins-learning
+
 
 # Project1
 -----------------------
 
 
-# Github project
-## Project url
+## Github project
+### Project url
 https://github.com/sagar-iitg/Jenkins-Project-Django.git/
 
-# Source Code Management
+## Source Code Management
 Repositories
 Repository URL
 
@@ -16,9 +16,9 @@ Repository URL
 https://github.com/sagar-iitg/Jenkins-Project-Django.git
 
 
-# Build Steps
+## Build Steps
 
-## Execute shell
+### Execute shell
 ```
 echo "Building"
 docker-compose down
