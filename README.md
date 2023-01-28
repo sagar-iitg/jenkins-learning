@@ -18,6 +18,10 @@ Repository URL
 https://github.com/sagar-iitg/Jenkins-Project-Django.git
 
 
+## Build Triggers
+
+### GitHub hook trigger for GITScm pollin
+
 ## Build Steps
 
 Execute shell
